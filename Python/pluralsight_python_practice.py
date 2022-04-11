@@ -62,4 +62,20 @@ a = 10
 print(a)
 a = "a is a string!"
 print (a)
+b = a
 
+# if
+
+if a != b:
+    print("cool")
+elif a == b:
+    print("neat")
+else:
+    print("wow")
+
+# loops
+counter = 17
+while counter > 0:
+    if counter%5:
+        print(counter)
+        counter-= 1
