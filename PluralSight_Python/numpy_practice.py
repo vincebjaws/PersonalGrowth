@@ -1,11 +1,13 @@
 #------------------------------------------------------------------------
 # Author: Vince Bjazevic
-# Project: Connect 4
+# Project: Numpy Practice
 # File: connect4.py
-# Date: 04/11/2022
+# Date: 04/15/2022
 #------------------------------------------------------------------------
 
 import numpy as np
 
-empty_array = np.empty((7, 6), int)
+
+empty_array = np.(6)
 print(empty_array)
+
